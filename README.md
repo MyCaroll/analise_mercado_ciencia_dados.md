@@ -32,7 +32,7 @@ Além disso, auxilia candidatos a identificar requisitos específicos para as á
 
 📂 Relatório completo
 O relatório completo em PDF está disponível em:  
-👉 [Clique para acessar](file:///C:/Users/Carol/Desktop/Trabalho%20an%C3%A1lise%20vagas.pdf)
+👉 [Clique para acessar](file:///C:/Users/Carol/Desktop/OSPDF/Trabalho%20an%C3%A1lise%20vagas.pdf)
 
 ---
 
