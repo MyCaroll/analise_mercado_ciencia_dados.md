@@ -32,7 +32,7 @@ Além disso, auxilia candidatos a identificar requisitos específicos para as á
 
 📂 Relatório completo
 O relatório completo em PDF está disponível em:  
-👉 [Clique para acessar]([Trabalho análise vagas.pdf](https://github.com/user-attachments/files/22068958/Trabalho.analise.vagas.pdf)
+👉 [Clique para acessar]([Trabalho análise vagas.pdf](https://github.com/user-attachments/files/22068958/Trabalho.analise.vagas.pdf))
 
 
 ---
